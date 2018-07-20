@@ -1,0 +1,3 @@
+/Users/danny.qi/Projects/BluePrinter/BPBinding/obj/Release/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/danny.qi/Projects/BluePrinter/BPBinding/bin/Release/BPBinding.dll
+/Users/danny.qi/Projects/BluePrinter/BPBinding/obj/Release/BPBinding.dll

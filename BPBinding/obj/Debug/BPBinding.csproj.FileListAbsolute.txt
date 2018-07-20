@@ -1,0 +1,5 @@
+/Users/danny.qi/Projects/BluePrinter/BPBinding/bin/Debug/BPBinding.dll
+/Users/danny.qi/Projects/BluePrinter/BPBinding/bin/Debug/BPBinding.pdb
+/Users/danny.qi/Projects/BluePrinter/BPBinding/obj/Debug/BPBinding.csproj.CoreCompileInputs.cache
+/Users/danny.qi/Projects/BluePrinter/BPBinding/obj/Debug/BPBinding.dll
+/Users/danny.qi/Projects/BluePrinter/BPBinding/obj/Debug/BPBinding.pdb
